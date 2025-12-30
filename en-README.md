@@ -1,6 +1,6 @@
----
-title: Password manager in python
----
+# Password manager in python
+
+
 # Introduction.
 This is my password manager written in Python. It’s a very minimalist 
 project that uses only the **cryptography** library, specifically the 
@@ -25,9 +25,8 @@ here on GitHub or through the contacts listed on my [website](https://kid-hack.c
 
 
 # Usage.
-First, you need to generate or load a key, and create or load
-a password file. After that, you can use all other available
-features.
+First, you need to install cryptography via pip, generate or load a key, create or load
+a password file, and after that you can use all the other features.
 
 ## Options:
 1. Generate new keys for encrypting password files.  
