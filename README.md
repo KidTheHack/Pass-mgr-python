@@ -24,9 +24,8 @@ per qualsiasi cosa, qui su Github o ai contatti che trovate sul mio
     * Eliminazione di servizi.
 
 # Utilizzo:
-Per prima cosa bisogna generare o caricare una chiave, creare o
-caricare un password file, dopo di che è possibile utilizzare tutte
-le altre funzionalità.
+Per prima cosa bisogna installare **cryptography** tramite pip, generare o caricare una chiave,
+creare o caricare un password file, dopo di ché è possibile utilizzare tutte le altre funzionalità.
 
 ## Opzioni:
 1. Genera nuove chiavi per la **cifratura** dei file con le password.
