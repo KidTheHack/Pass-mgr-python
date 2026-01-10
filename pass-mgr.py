@@ -1,5 +1,3 @@
-#!/home/riki/Documents/prg/py/pass-mgr-v2/venv/bin/python3
-
 from cryptography.fernet import Fernet, InvalidToken
 
 def cls():
